@@ -48,6 +48,8 @@
   "black_market": false,
   "staircase_rev": true,
   "auction": true,
+  "tax_evasion": true,
+  "must_play_on_clear": false,
   "se_volume": 80,
   "bgm_volume": 50
 }
